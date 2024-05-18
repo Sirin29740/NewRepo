@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/同下标求和操作.cpp
+/同下标求和操作.cpp
